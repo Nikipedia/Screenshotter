@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Screenshotter_Form.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%userprofile%\documents</Value>
+    </Setting>
+    <Setting Name="GoalPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%userprofile%\documents\goals.txt</Value>
+    </Setting>
+    <Setting Name="PicturePath1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Picture1.jpg</Value>
+    </Setting>
+    <Setting Name="PicturePath2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Picture1.jpg</Value>
+    </Setting>
+    <Setting Name="PicturePath3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Picture1.jpg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
