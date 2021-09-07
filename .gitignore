@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/Screenshotter Form/bin/
+/Screenshotter Form/obj/
+/.vs/
